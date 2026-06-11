@@ -13,22 +13,11 @@ For those who can not access ABCD and PNC dataset, we also provide an open-sourc
 
 ## Usage
 
-### PNC
-
-```bash
-python main.py --config_filename setting/pnc_fbnetgen.yaml
-```
-
-### ABCD 
-
-```bash
-python main.py --config_filename setting/abcd_fbnetgen.yaml
-```
 
 ### ABIDE 
 
 ```bash
-python main.py --config_filename setting/abide_fbnetgen.yaml
+python main.py 
 ```
 
 ## Hyper parameters
