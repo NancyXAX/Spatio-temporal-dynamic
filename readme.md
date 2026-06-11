@@ -2,10 +2,6 @@
 
 ## Dataset
 
-### PNC and ABCD
-
-PNC can be accessed from [NIH](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000607.v3.p2), and ABCD can be accessed from [NIMH Data Archive](https://nda.nih.gov/).
-
 
 ### ABIDE
 
