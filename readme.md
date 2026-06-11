@@ -1,4 +1,4 @@
-# FBNETGEN
+# Spatio-temporal-dynamic
 
 ## Dataset
 
